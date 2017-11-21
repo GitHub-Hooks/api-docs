@@ -35,8 +35,8 @@ GitHub UI Hooks are JavaScript functions that execute before or after events tha
 
 These hook scripts are only limited by a developer’s imagination. Some example scripts include:
 
-- 'pull-request-compare': When the compare page for a pull request is opened
-- 'pull-request-merged': When a pull request is merged
+- `pull-request-compare`: When the compare page for a pull request is opened
+- `pull-request-merged`: When a pull request is merged
 
 ## How do they work?
 
@@ -63,7 +63,7 @@ Another use could be to use this as a for pseudo [webhooks](https://developer.gi
 
 ## Contribute
 
-- We’re seeking feedback in the form of general questions, bug reports, feature requests, pull-requests, and sample scripts.
+We’re seeking feedback in the form of general questions, bug reports, feature requests, pull-requests, and sample scripts.
 
 [Open issue](https://github.com/GitHub-UI-Hooks/github-ui-hooks/issues/new)
 
