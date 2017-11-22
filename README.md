@@ -59,7 +59,7 @@ This browser extension solves this issue in an automatic fashion by providing an
 
 --
 
-Another use could be to use this as a for pseudo [webhooks](https://developer.github.com/webhooks/). For example, you could post a message in a Slack channel anytime a pull request is opened (without the need for setting up an always on event-subscriber server).
+Another use case could be for pseudo [webhooks](https://developer.github.com/webhooks/). For example, you could post a message in a Slack channel anytime a pull request is opened (without the need for setting up an always on event-subscriber server).
 
 ## Contribute
 
