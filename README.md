@@ -33,7 +33,7 @@
 
 GitHub UI Hooks are JavaScript functions that execute before or after events that take place within the context of the GitHub UI. These are **not** first class citizens within GitHub or Git itself. A browser extension is needed to execute these scripts and a developer must add the scripts to their repositories in a `.github-ui-hooks.js` file.
 
-These hook scripts are only limited by a developer’s imagination. Some example scripts include:
+These hook scripts are only limited by a developer’s imagination. Some example hooks include:
 
 - `pull-request-compare`: When the compare page for a pull request is opened
 - `pull-request-merged`: When a pull request is merged
