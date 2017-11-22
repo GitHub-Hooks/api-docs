@@ -20,8 +20,8 @@
   // .github-ui-hooks.js
   const GITHUB_UI_HOOKS = {
     'pull-request-compare': (meta) => {
-        const pullRequestTitleElement = document.getElementById('pull_request_title');
-        pullRequestTitleElement.value = 'Hello world';
+      const pullRequestTitleElement = document.getElementById('pull_request_title');
+      pullRequestTitleElement.value = 'Hello world';
     }
   }
   ```
