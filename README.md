@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img height="248px" src="./assets/logomark.svg" alt="GitHub UI Hooks logomark" />
-</h1>
+</p>
 
 # GitHub UI Hooks
 
