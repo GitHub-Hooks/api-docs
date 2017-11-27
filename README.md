@@ -1,10 +1,11 @@
-# GitHub UI Hooks
-
 <h1 align="center">
-  <img height="128px" src="./assets/logomark.svg" alt="GitHub UI Hooks logomark" />
+  <img height="248px" src="./assets/logomark.svg" alt="GitHub UI Hooks logomark" />
 </h1>
 
+# GitHub UI Hooks
+
 > UI Hooks for GitHub
+
 
 ## tl;dr
 
